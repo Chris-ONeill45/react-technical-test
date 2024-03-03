@@ -1,0 +1,13 @@
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  grid-auto-columns: 3;
+  gap: 16px;
+}
+
+.card-image {
+  width: auto;
+  max-width: 300px;
+  height: 100%;
+  margin-bottom: 16px;
+}
