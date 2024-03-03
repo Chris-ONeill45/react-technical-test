@@ -7,7 +7,8 @@ An app that is designed to retrieve and display space-related images from a NASA
 
 https://images-api.nasa.gov/searchq={searchInput}
 
-Dependencies for this project are
+### Dependencies
+
 React
 Node.js
 axios
