@@ -16,7 +16,7 @@ axios
 
 Navigate to the desired directory in your terminal and run
 
-https://github.com/JordsCodes/tech-test
+`https://github.com/JordsCodes/tech-test`
 
 Install Node Project Manager: `npm install`
 
@@ -25,3 +25,7 @@ Run appp by navigating to the project root directory and run: `npm start`
 ### Notes
 
 Given additional time, I would make the app be ble to load full resolution versions of the images on new pages, not just thumbnails.
+
+### Author
+
+Chris O'Neill
