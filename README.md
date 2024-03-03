@@ -1,4 +1,4 @@
-Nasa Search Engine Technical Test
+# Nasa Search Engine Technical Test
 
 UI:
 ![Alt text](image.png)
@@ -12,14 +12,16 @@ React
 Node.js
 axios
 
-Installation
+### Installation
+
 Navigate to the desired directory in your terminal and run
 
 https://github.com/JordsCodes/tech-test
 
-Install Node Project Manager: npm install
+Install Node Project Manager: `npm install`
 
-Run appp by navigating to the project root directory and run: npm start
+Run appp by navigating to the project root directory and run: `npm start`
 
-Notes
+### Notes
+
 Given additional time, I would make the app be ble to load full resolution versions of the images on new pages, not just thumbnails.
